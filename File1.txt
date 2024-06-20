@@ -1,1 +1,3 @@
 Adding file 1 in sub branch
+
+Adding a second line in file 1.
